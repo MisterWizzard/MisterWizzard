@@ -5,5 +5,6 @@ Founder of Bywater Interactive, an Australian software and agentic AI company ba
 ## Live work
 - **The Last Slot**: booking, POS and payments platform for appointment-based businesses, with Stripe Connect payments. https://thelastslot.com
 - **Frontier**: hex-board strategy game, live on Google Play with in-app purchases. Web: https://app.forgefrontier.app/play · Android: https://play.google.com/store/apps/details?id=com.forgefrontier.app
+- **TheForge**: model-independent agent orchestration layer: approval gates, isolated git worktrees, Postgres-backed scheduler. Release candidate. https://github.com/MisterWizzard/theforge-orchestrator
 
 Most of my code lives in private commercial repos. I'm happy to give access or walk through it on a call: daniel.bywater@gmail.com
